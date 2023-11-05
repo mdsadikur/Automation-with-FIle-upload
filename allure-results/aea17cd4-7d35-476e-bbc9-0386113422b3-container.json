@@ -1,0 +1,1 @@
+{"uuid":"aea17cd4-7d35-476e-bbc9-0386113422b3","name":"AMC.BaseAMC.browserSetup","children":["ef481794-23fb-4d70-bc33-4f80fb61f6e2"],"description":"","befores":[{"name":"browserSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699177331883,"stop":1699177335396}],"afters":[],"start":1699177331883,"stop":1699177335396}

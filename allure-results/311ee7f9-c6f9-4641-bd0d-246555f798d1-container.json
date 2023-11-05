@@ -1,0 +1,1 @@
+{"uuid":"311ee7f9-c6f9-4641-bd0d-246555f798d1","name":"AMC.BaseAMC.tearDown","children":["51eb9d85-0675-41cf-bb49-fc1033e3615e"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699165045892,"stop":1699165046010}],"start":1699165045892,"stop":1699165046010}
